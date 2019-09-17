@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Rachel:  A Website
+title: Welcome
 
 # Short description of your site
-description: Rachel,  but virtual
+description: Virtual  Rachel
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
