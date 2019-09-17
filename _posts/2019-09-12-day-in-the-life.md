@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dear Diary...
+bigimg: /img/ultimate.jpg
 subtitle: A day in the life of Rachel
 tags: [day, in, the, life]
 
