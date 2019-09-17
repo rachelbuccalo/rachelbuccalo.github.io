@@ -11,7 +11,7 @@ This is a brief recount of my day on **Thursday, September 12th.**
 
 ## Start of the day
 
-I was excited to start my day! I got an apple and a french vanilla cappuccino from Mission Dining Hall. Unfortunately, I spilled some of my drink on my hand, and wasn't able to finish my apple before class. Nonetheless, my electronic textiles course(my favorite class) was exhilerating and my discrete math course didn't fail to confuse me. Afterwards, I had lunch with my friends and stayed in my dorm for a bit.
+I was excited to start my day! I got an apple and a french vanilla cappuccino from Mission Dining Hall. Unfortunately, I spilled some of my drink on my hand, and wasn't able to finish my apple before class. Nonetheless, my electronic textiles course(_my favorite class_) was exhilerating and my discrete math course didn't fail to confuse me. Afterwards, I had lunch with my friends and stayed in my dorm for a bit.
 
 ## Going out!
 
@@ -20,11 +20,11 @@ Every weekday, I go out and play ultimate frisbee. I've been playing ever since 
 ### Notification
 
 {: .box-note}
-**Note:** Though I am short, I can play ultimate frisbee.
+**Note:** Though I am short, **I can play ultimate frisbee.**
 
 ## Getting home
 
-As I was walking down the hill to get back to my dorm, I look down and see a humongous catipillar on the ground! I didn't want it to be stepped on, so I picked it up with two leaves and carried it to a nearby grassy area.
+As I was walking down the hill to get back to my dorm, I look down and see a _humongous_ catipillar on the ground! I didn't want it to be stepped on, so I picked it up with two leaves and carried it to a nearby grassy area.
 
 ## Exhaustion!
 
