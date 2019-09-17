@@ -1,6 +1,6 @@
 ---
 layout: page
-title: rachel
+title: 
 subtitle: Why I'm taking electronic textiles
 ---
 
