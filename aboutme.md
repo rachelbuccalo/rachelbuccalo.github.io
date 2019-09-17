@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: rachel
+subtitle: Why I'm taking electronic textiles
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Rachel Buccalo. I’m a creator with a heavy background in visual art, which for me means that I’m attracted to tangible ideas. I love seeing my thought process on a canvas or sketchbook, and I want to broaden how I choose to convey a message or construct a project. Electronic textiles is a perfect bridge between the somewhat abstract mathematic portion of coding and the visual portion of object-building.
