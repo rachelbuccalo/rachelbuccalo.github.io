@@ -6,9 +6,15 @@ tags: [me, cool, wow]
 ---
 
 Rachel Buccalo
+
 Class of 2023
+
 Possible majors: Mathematics, Psychology, Visual Art
+
 Sewing experience: Some
+
 Programing experience: None
+
 I hope to learn introductory computer science and its applications in a tangible setting.
+
 I have a dog named Olive(not boring, sorry, Olive is STUPENDOUS).
