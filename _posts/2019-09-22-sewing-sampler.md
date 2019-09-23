@@ -6,3 +6,5 @@ tags: [cool, wow]
 ---
 
 image: /img/SuperMarioParty_KoopaTroopa.jpg
+
+Listening to your favorite "hype up" Spotify playlist helps tremendously!
