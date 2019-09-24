@@ -2,7 +2,7 @@
 layout: post
 title: Sewing Sampler
 subtitle: Due September 24th
-bigimg: /img/sewingsample.jpg
+bigimg: /img/IMG_2340.JPG
 tags: [cool, wow]
 ---
 
