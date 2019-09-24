@@ -2,7 +2,6 @@
 layout: post
 title: Sewing Sampler
 subtitle: Due September 24th
-image: /img/SuperMarioParty_KoopaTroopa.jpg
 tags: [cool, wow]
 ---
 
