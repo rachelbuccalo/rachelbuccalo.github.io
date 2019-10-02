@@ -1,0 +1,12 @@
+---
+layout: post
+title: Odd Menu
+subtitle: Due October 2nd
+tags: [coding, deliverable]
+
+---
+
+Hello! This is a program that gives a choice of a regular menu or a secret menu based on an even or odd input and gives a choice of menu options by the input of integers that correspond to particular options.
+
+Pro tip : VISIT OFFICE HOURS! Also, learn how to condense your code!
+![A Menu Output](http://rachelbuccalo.github.io/img/amenuoutput.png)
