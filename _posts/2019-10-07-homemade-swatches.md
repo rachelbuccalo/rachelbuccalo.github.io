@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Homemade Switches
+title:  Homemade Swatches
 subtitle: Due October 8th        
 tags: [switches]
 ---
@@ -8,7 +8,7 @@ tags: [switches]
 ![Alligator Prototype](http://rachelbuccalo.github.io/img/alligator.JPG)
 ![Paper Prototype FRONT](http://rachelbuccalo.github.io/img/paperfront.JPG)
 ![Paper Prototype BACK](http://rachelbuccalo.github.io/img/paperback.JPG)
-![Front of Homemade SHOWING](http://rachelbuccalo.github.io/img/frontshowing.JPG)
+![Front of Homemade](http://rachelbuccalo.github.io/img/frontshowing.JPG)
 ![Front of Homemade WORKING](http://rachelbuccalo.github.io/img/frontworking.JPG)
 ![Back of Homemade](http://rachelbuccalo.github.io/img/back.JPG)
 
