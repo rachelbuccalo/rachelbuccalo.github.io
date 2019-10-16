@@ -8,8 +8,8 @@ tags: [switches]
 ![Alligator Prototype](http://rachelbuccalo.github.io/img/alligator.JPG)
 ![Paper Prototype FRONT](http://rachelbuccalo.github.io/img/paperfront.JPG)
 ![Paper Prototype BACK](http://rachelbuccalo.github.io/img/paperback.JPG)
-![Front of Homemade](http://rachelbuccalo.github.io/img/frontshowing.png)
-![Front of Homemade WORKING](http://rachelbuccalo.github.io/img/frontworking.png)
+![Front of Homemade](http://rachelbuccalo.github.io/img/1.png)
+![Front of Homemade WORKING](http://rachelbuccalo.github.io/img/2.png)
 ![Back of Homemade](http://rachelbuccalo.github.io/img/back.png)
 
 My project contains LEDs that light up the two i's in my embroidered "Williams". I used alligator clips to prototype my design, then implemented it on fabric using conductive thread, conductive fabric, a battery, and LEDs.
