@@ -18,19 +18,22 @@ much I missed all the shelter cats I took care of back at home.
 ## Materials List
 
 Plushy:
-2 LilyPad LEDs
-1 Sewable Battery Holder (with switch) with a LiPo Battery
-Conductive thread
-Hand warmer (2" x 1.5")
-Tissues
-Black embroidery floss
-12"x12" orange felt
-12"x12" white felt
-2 temperature sensors
-1 buzzer
+
+1. 2 LilyPad LEDs
+2. 1 Sewable Battery Holder (with switch) with a LiPo Battery
+3. Conductive thread
+4. Hand warmer (2" x 1.5")
+5. Tissues
+6. Black embroidery floss
+7. 12"x12" orange felt
+8. 12"x12" white felt
+9. 2 temperature sensors
+10. 1 buzzer
+
 Dress:
-Crochet hook
-Purple yarn
+
+1. Crochet hook
+2. Purple yarn
 
 ## Paper Prototype
 ![Paper Prototype for Cat Plushy](http://rachelbuccalo.github.io/img/plushyprototype.png)
