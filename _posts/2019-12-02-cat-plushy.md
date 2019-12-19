@@ -38,6 +38,9 @@ Dress:
 ## Paper Prototype
 ![Paper Prototype for Cat Plushy](http://rachelbuccalo.github.io/img/plushyprototype.png)
 
+## Alligator Prototype
+![Alligator Prototype for Cat Plushy](http://rachelbuccalo.github.io/img/alligatorprototype.png)
+
 ## Final Images
 ![Image 1](http://rachelbuccalo.github.io/img/plushy1.JPG)
 ![Image 2](http://rachelbuccalo.github.io/img/plushy2.JPG)
